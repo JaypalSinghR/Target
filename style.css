@@ -1,7 +1,10 @@
+
+
+
 body{
 margin 0;
 padding 0;
-background:url(th(12).jpg);
+background-image:url("th(12).jp");
 background-size:cover;
 background-position:center;
 font-family:serif;

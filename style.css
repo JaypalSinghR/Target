@@ -8,7 +8,7 @@ font-family:serif;
 
 .loginbox{
 width:160px;
-height:210 px;
+height:210px;
 background:#000;
 color:#fff;
 position:absolute;
@@ -42,7 +42,7 @@ margin-bottom: 20px;
 {
 border:none;
 background:transparent;
-border-bottom:1 px solid #fb2525;
+border-bottom:1px solid #fb2525;
 height:40px;
 color:#fb2525;
 font-size:16px;
@@ -50,17 +50,17 @@ font-size:16px;
 
 .loginbox input[type="submit"]
 {
-border:5 px;
+border:5px;
 outline:none;
-height:50 px;
+height:50px;
 background:#fff;
 color:#fb2525;
-border-radius: 20 px;
+border-radius: 20px;
 }
 
 .loginbox input[type="submit"]:hover
 {
 cursor:pointer;
 background:#ffc107;
-color:fb2525;
+color:#fb2525;
 }

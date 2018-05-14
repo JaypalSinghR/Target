@@ -44,7 +44,7 @@ font-weight: bold;
 margin-bottom: 20px;
 }
 
-.loginbox input[type="text"], input[type="password"]
+.loginbox input[type="text"] ,input[type="password"]
 {
 border:none;
 background:transparent;

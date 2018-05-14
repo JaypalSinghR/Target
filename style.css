@@ -4,10 +4,10 @@
 body{
 margin 0;
 padding 0;
-background-image:url("th(12).jpg");
+background-color:#boc4de;
 background-size:cover;
 background-position:center;
-font-family:serif;
+  font-family:serif;}
 
 .loginbox{
 width:160px;
@@ -66,4 +66,4 @@ border-radius: 20px;
 cursor:pointer;
 background:#ffc107;
 color:#fb2525;
-  }}
+  }

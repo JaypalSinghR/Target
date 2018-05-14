@@ -12,10 +12,10 @@ background-position:center;
 .loginbox{
 width:300px;
 height:450px;
-background:#0000ff;
+background:#c71585;
 color:#dc143c;
 position:fixed;
-  transform:translate(65%,50%);
+  transform:translate(60%,50%);
 box-sizing:border-box;}
 
 .website{

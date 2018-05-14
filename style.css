@@ -35,10 +35,11 @@ font-size:32px;
 }
 
 .loginbox p{
-margin: 0 0 0 10;
+margin: 0 0 0 20px;
 pading: 0;
 font-weight: bold;
 }
+
 .loginbox input{
 margin-bottom: 20px;
 }

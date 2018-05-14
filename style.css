@@ -2,10 +2,10 @@
 
 
 body{
-margin 0 0 100px ;
-  padding 0 0 100px;
+margin 0;
+  padding 0;
 background:url("5678.png");
-background-position: 50% 50%;
+background-position:center;
   font-family:serif;}
 
 .loginbox{

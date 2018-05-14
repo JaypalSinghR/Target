@@ -44,10 +44,10 @@ font-weight: bold;
 margin-bottom: 20px;
 }
 
-.loginbox input[type="text"] ,input[type="password"]
+.loginbox input[type="text"] , input[type="password"]
 {
 border:none;
-  margin 0 0 0 25px;
+  margin: 0 0 0 25px;
 background:lightblue;
 border-bottom:1px solid #ffff00;
 height:40px;

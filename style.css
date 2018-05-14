@@ -47,8 +47,8 @@ margin-bottom: 20px;
 .loginbox input[type="text"] ,input[type="password"]
 {
 border:none;
-background:transparent;
-border-bottom:1px solid #fb2525;
+background:lightblue;
+border-bottom:1px solid #ffff00;
 height:40px;
 color:#fb2525;
 font-size:16px;
@@ -59,7 +59,7 @@ font-size:16px;
 border:5px;
 outline:none;
 height:50px;
-background:#fff;
+background:#008080;
 color:#fb2525;
 border-radius: 20px;
 }

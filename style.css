@@ -10,11 +10,13 @@ background-position:center;
   font-family:serif;}
 
 .loginbox{
-width:250px;
-height:250px;
+width:400px;
+height:400px;
 background:#7fff00;
 color:#dc143c;
 position:absolute;
+  top:50%;
+  left:50%;
 box-sizing:border-box;}
 
 .website{

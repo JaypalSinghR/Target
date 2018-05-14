@@ -4,14 +4,14 @@
 body{
 margin 0;
 padding 0;
-background-image:url("th (12).jpg");
+background-image:url("1234.png");
 background-size:cover;
 background-position:center;
   font-family:serif;}
 
 .loginbox{
-width:160px;
-height:210px;
+width:100px;
+height:100px;
 background:#000;
 color:#fff;
 position:absolute;

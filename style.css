@@ -6,7 +6,7 @@ margin 0;
 padding 0;
 background-image:url("1234.png");
   background-repeat:repeat-x;
-background-position:centre;
+background-position: bottom center;
   font-family:serif;}
 
 .loginbox{
